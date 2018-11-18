@@ -6,3 +6,4 @@ GOAL: simple swagger driven rest project
 #5 checkin to github
 
 BONUS:
+#1 there are issues with PUSH and 404 play with this!
